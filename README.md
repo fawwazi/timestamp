@@ -1,2 +1,1 @@
-# timestamp
-rf-timestamp.glitch.me
+# Backend Challenges boilerplate - package.json
